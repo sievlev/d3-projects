@@ -4,6 +4,7 @@
   "description": "d3js experiments",
   "author": "Stanislav Ievlev <stanislav.ievlev@gmail.com>",
   "license": "ISC",
+  "repository": "https://github.com/sievlev/d3-projects.git",
   "babel": {
       "presets": [
           "es2017"
