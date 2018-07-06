@@ -6,13 +6,13 @@
   "license": "ISC",
   "repository": "https://github.com/sievlev/d3-projects.git",
   "babel": {
-      "presets": [
-          "es2017"
-      ]
+    "presets": [
+      "es2017"
+    ]
   },
   "main": "lib/main.js",
   "scripts": {
-      "start": "webpack-dev-server --inline --host 0.0.0.0"
+    "start": "webpack-dev-server --inline --host 0.0.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
@@ -26,6 +26,7 @@
     "webpack-dev-server": "^2.11.2"
   },
   "dependencies": {
-    "d3": "^5.1.0"
+    "d3": "^5.1.0",
+    "d3-svg-legend": "^2.25.6"
   }
 }
